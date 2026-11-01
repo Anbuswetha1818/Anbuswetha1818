@@ -189,7 +189,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech Computer Science Engineering | Bharathidasan University, Tiruchirappalli | 2026 | CGPA: 7.0 |
+| B.Tech Computer Science Engineering | Bharathidasan University, Tiruchirappalli | 2026 | CGPA: 6.9 |
 
 </div>
 
