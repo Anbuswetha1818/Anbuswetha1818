@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anbu%20Swetha%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React.js+%7C+Django+REST+Framework+%7C+Python;Building+SIMS+-+Student+Intern+Management+System;Passionate+About+Clean+Code+%26+Scalable+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React.js+%7C+Django+REST+Framework+%7C+Python;Building+SIMS+-+Intern+Management+System;Passionate+About+Clean+Code+%26+Scalable+Apps" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Anbuswetha1818&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile views"/>
 
@@ -189,7 +189,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech Computer Science Engineering | Bharathidasan University, Tiruchirappalli | 2026 | CGPA: 6.9 |
+| B.Tech Computer Science Engineering | Bharathidasan University, Tiruchirappalli | 2026 | CGPA: 7.0 |
 
 </div>
 
