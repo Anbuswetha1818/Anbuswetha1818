@@ -20,13 +20,13 @@ class AnbuSwetha:
         self.name = "Anbu Swetha B"
         self.location = "Pudukkottai, Tamil Nadu, India"
         self.degree = "B.Tech Computer Science Engineering"
-        self.role = "Full Stack Developer Intern @ VDart Academy"
+        self.role = "Full Stack Developer @ Oneomics"
 
         self.stack = {
             "languages": ["Python", "JavaScript", "SQL", "HTML5", "CSS3"],
-            "frontend": ["React.js", "Bootstrap", "Tailwind CSS"],
-            "backend": ["Django", "Django REST Framework", "Flask", "REST APIs", "JWT Auth"],
-            "database": ["MySQL", "SQLite"],
+            "frontend": ["React.js", "Next.js", "Bootstrap", "Tailwind CSS"],
+            "backend": ["Node.js", "Express.js", "Sequelize", "Django", "Django REST Framework", "Flask", "REST APIs", "JWT Auth"],
+            "database": ["MySQL", "PostgreSQL", "SQLite"],
             "ml_ai": ["Scikit-learn", "Pandas", "NumPy"]
         }
 
@@ -56,6 +56,9 @@ print(me.motto())
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -72,6 +75,7 @@ print(me.motto())
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Tools**
@@ -109,15 +113,26 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>Full Stack Developer Intern @ VDart Academy</b> — June 2026 – Present | Tiruchirappalli, Tamil Nadu</summary>
+<summary><b>Full Stack Developer @ Oneomics Private Limited</b> — Aug 2026 – Oct 2026 | Tiruchirappalli, Tamil Nadu</summary>
 <br/>
 
-> `React` `Django REST Framework` `MySQL` `JWT Authentication` `RBAC`
+> `React` `Next.js` `Node.js` `Express.js` `Sequelize` `MySQL` `PostgreSQL`
 
-- Developing **SIMS (Student Intern Management System)**, a full-stack platform using React, Django REST Framework, MySQL, and JWT authentication with role-based access control.
-- Building role-based dashboards spanning a multi-level role hierarchy, from admin down to intern views.
-- Integrating REST APIs end-to-end, from UI design through deployment.
-- Collaborating cross-functionally on feature development in an agile team environment.
+- **Ancestry Analysis:** Built a Next.js app with a 1.15M-SNP reference panel, genome build detection, VCF QC, and PDF reports.
+- **Thaimann:** Developed interactive Agro-Climatic Zone soil plots (13+ parameters) with a mobile-friendly UI.
+- **Brochure Builder:** Created tri-fold and A4 flyer templates, image cropping, and PDF export.
+- **LIMS:** Built with React, Node.js, MySQL: 120+ sample bulk upload, QC validation, workflow fixes.
+
+</details>
+
+<details>
+<summary><b>Full Stack Developer Intern @ VDart Academy</b> — June 2026 – Aug 2026 | Tiruchirappalli, Tamil Nadu</summary>
+<br/>
+
+> `React` `Django REST Framework` `MySQL` `PostgreSQL` `JWT Authentication` `RBAC`
+
+- Developed **SIMS (Student Intern Management System)**, a full-stack platform using React, Django REST Framework, MySQL, and JWT authentication with role-based access control.
+- Built role-based dashboards, integrated APIs, and collaborated on end-to-end feature development from UI design to deployment.
 
 </details>
 
@@ -142,6 +157,9 @@ print(me.motto())
 | Project | Stack | Highlights |
 |---|---|---|
 | **[SIMS – Student Intern Management System](https://github.com/Anbuswetha1818)** | React · Django REST Framework · MySQL · JWT | Full-stack platform with role-based access control across a multi-level role hierarchy; role-based dashboards and end-to-end API integration |
+| **[Ancestry Analysis](https://github.com/Anbuswetha1818)** | Next.js · Node.js | 1.15M-SNP reference panel, genome build detection, VCF QC, and PDF reports |
+| **[Thaimann](https://thaimann.co.in)** | React · Node.js | Interactive Agro-Climatic Zone soil plots with **13+ parameters** and a mobile-friendly UI |
+| **[Brochure Studio](https://brochure-studio-ten.vercel.app)** | React | Tri-fold and A4 flyer templates, image cropping, and PDF export |
 | **[EnergyStream AI](https://github.com/Anbuswetha1818)** | Python · Flask · Scikit-learn · Pandas · NumPy | LSTM-based household electricity usage forecasting; trained on **2M+ records** achieving **97.3% accuracy**; deployed via Flask API for real-time predictions |
 | **[Python Desktop Application](https://github.com/Anbuswetha1818)** | Python · OOP · MySQL | GUI-based data-driven application built with modular, object-oriented Python and MySQL integration |
 
@@ -194,6 +212,7 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/anbuswetha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anbuswethabarathan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-70a5fd?style=flat-square&logo=googlechrome&logoColor=white)](https://anbuswetha.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anbuswetha1818)
 
 </div>
